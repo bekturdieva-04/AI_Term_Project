@@ -1,0 +1,201 @@
+age,monthly_income,loan_amount,loan_term,purpose,marital_status,available_credit,employment_length,employment_type,education,num_delinquencies_2yrs,credit_utilization,gender
+59,40420,5499,6,Auto,Married,9924.84,4,contract,High School,0,42.4,Male
+49,54360,7295,6,Housing,Married,9324.89,15,self-employed,Some College,3,25.9,Female
+35,18590,13183,48,Auto,Married,18283.68,20,full-time,Graduate,0,61.0,Female
+63,74680,30299,36,microloan,Married,33283.57,19,full-time,Some College,0,38.9,Female
+28,60790,13874,24,Other,Single,8076.64,3,part-time,Bachelor,0,31.3,Male
+41,25220,33711,12,Other,Single,33805.25,20,full-time,Some College,1,41.0,Male
+59,41140,6539,24,Education,Married,11144.29,11,full-time,Some College,0,47.1,Male
+39,39570,3557,24,Auto,Divorced,1803.21,17,full-time,Advanced,3,42.1,Male
+43,67150,39360,12,Housing,Single,39369.79,27,full-time,Some College,0,58.1,Male
+31,34250,17482,24,Business,Married,19182.18,13,full-time,Graduate,0,45.8,Female
+31,35290,3200,24,Education,Married,4179.5,11,full-time,High School,0,35.7,Male
+44,75000,3961,36,Housing,Married,7445.82,2,full-time,High School,0,46.0,Female
+56,23970,22357,36,Other,Married,22793.39,9,full-time,High School,0,47.5,Male
+60,38600,12969,6,Business,Married,13233.95,26,contract,Bachelor,0,20.6,Male
+44,34930,3869,24,Other,Married,6214.59,2,full-time,Some College,1,57.2,Male
+23,56910,29643,36,Business,Married,34929.14,21,full-time,Graduate,0,35.5,Female
+42,59470,25736,36,Education,Married,21538.64,9,part-time,Some College,0,35.9,Female
+22,65390,39467,48,Auto,Single,46518.15,9,full-time,Advanced,0,51.3,Female
+44,44270,24328,36,Other,Married,17304.15,8,contract,High School,0,51.2,Male
+64,21630,26876,12,Business,Single,20548.86,17,self-employed,Graduate,0,29.5,Male
+50,27810,22295,12,microloan,Married,27814.16,1,full-time,Bachelor,0,52.0,Female
+58,62500,4987,36,microloan,Divorced,5627.27,25,full-time,Bachelor,0,31.6,Male
+22,24630,23399,6,Housing,Married,43809.22,29,self-employed,Graduate,0,67.3,Female
+41,23290,34986,36,Business,Married,36511.07,11,contract,Bachelor,0,27.6,Male
+53,28380,21880,48,Other,Divorced,29994.91,8,full-time,Bachelor,0,43.6,Male
+32,63920,5735,36,Housing,Single,8306.55,10,part-time,High School,1,28.3,Male
+42,41020,5555,24,Auto,Single,2886.61,25,full-time,High School,1,73.3,Male
+64,30370,20830,36,Housing,Married,31147.23,7,contract,Graduate,0,21.4,Female
+45,63040,18429,24,Other,Married,14136.04,3,full-time,Bachelor,1,47.9,Male
+69,62960,7893,36,Business,Single,15325.09,3,contract,Bachelor,0,29.0,Male
+47,21060,15373,48,Business,Divorced,11114.59,18,part-time,Some College,0,34.7,Male
+62,48290,4436,24,Auto,Single,4976.91,5,part-time,High School,0,46.8,Male
+48,75760,9754,60,Auto,Single,6125.75,12,full-time,High School,0,58.4,Female
+36,34750,11677,48,Housing,Married,23299.25,12,full-time,Bachelor,0,64.4,Female
+35,58680,6895,12,microloan,Single,8641.45,19,full-time,Some College,2,16.9,Female
+67,66640,20738,12,Business,Married,28889.64,6,full-time,High School,0,44.0,Female
+64,20820,31746,12,Business,Married,19067.11,2,full-time,Some College,0,61.9,Male
+23,15090,33352,6,Other,Married,54195.02,12,self-employed,High School,0,14.7,Female
+57,63750,6600,12,Other,Single,5378.07,19,full-time,Bachelor,2,44.7,Male
+27,63300,30124,36,Auto,Married,55641.48,5,full-time,Some College,0,40.0,Male
+41,55440,28643,12,Business,Married,23135.22,12,contract,Bachelor,0,46.2,Female
+29,52130,10007,24,Other,Single,7865.82,27,self-employed,Some College,0,28.4,Male
+59,45480,38410,48,Business,Married,21310.81,27,contract,Some College,0,18.5,Female
+38,61530,9208,6,Housing,Single,11124.19,17,contract,High School,3,11.3,Male
+24,55790,19589,48,Auto,Married,26391.51,29,full-time,High School,3,54.6,Female
+45,14630,18453,24,microloan,Married,11045.28,17,full-time,Some College,0,56.6,Female
+34,27980,37212,12,Other,Single,61894.4,10,self-employed,Some College,2,44.5,Female
+29,42450,33635,36,Education,Married,39687.05,25,part-time,Bachelor,0,32.0,Female
+46,45430,34828,36,Housing,Married,44809.2,23,full-time,Some College,1,15.7,Female
+22,65270,19711,48,Education,Married,22887.31,17,self-employed,Bachelor,0,48.5,Male
+40,22950,4420,36,Education,Married,4867.06,15,full-time,Graduate,0,23.5,Female
+48,41040,32216,48,Housing,Divorced,43152.06,12,full-time,Bachelor,0,29.3,Male
+67,45630,1301,24,microloan,Married,953.45,16,full-time,High School,0,31.2,Female
+27,60320,1699,12,Education,Single,1313.14,24,full-time,Some College,0,37.0,Female
+64,26530,1190,36,Auto,Married,2133.29,19,full-time,High School,0,28.6,Female
+28,64160,11492,48,Business,Single,22055.14,8,full-time,High School,0,40.5,Male
+67,73850,36743,60,Auto,Single,38946.26,21,self-employed,Advanced,0,30.7,Male
+55,54590,7102,24,Business,Single,6435.24,17,full-time,High School,0,50.5,Female
+34,20910,20778,24,Auto,Married,30460.53,23,full-time,Some College,0,55.5,Male
+37,43810,27641,36,Auto,Married,30767.23,5,self-employed,Bachelor,3,41.6,Male
+56,42570,35584,24,Business,Married,19147.02,22,contract,Bachelor,0,46.9,Male
+60,24360,33745,48,Auto,Divorced,24776.55,16,self-employed,Bachelor,0,71.8,Female
+24,44960,24093,48,microloan,Single,37921.38,6,self-employed,High School,0,22.4,Female
+22,37990,1569,24,microloan,Divorced,2335.28,8,part-time,Some College,1,21.5,Male
+26,39520,39210,36,Business,Married,21198.65,25,full-time,Bachelor,0,50.4,Male
+62,14980,35663,36,Education,Single,29705.79,18,full-time,High School,0,69.2,Male
+24,29600,37631,12,Business,Divorced,31858.86,25,full-time,Some College,1,36.1,Female
+49,48970,8455,48,Housing,Married,12748.78,12,full-time,High School,2,65.9,Female
+38,55370,5014,36,microloan,Married,2655.24,15,full-time,High School,0,41.4,Male
+46,71630,12093,48,microloan,Single,7934.98,27,part-time,Some College,0,29.8,Male
+64,64850,19070,24,Housing,Single,32416.6,26,full-time,High School,0,25.1,Male
+54,16540,36777,48,Auto,Single,28238.01,9,full-time,Bachelor,1,49.4,Female
+30,66550,17538,24,Housing,Married,25940.79,13,full-time,Bachelor,0,26.3,Female
+56,73280,11729,6,Auto,Single,10054.97,26,part-time,Graduate,0,41.2,Male
+34,42740,35177,48,Other,Married,22835.57,15,full-time,High School,2,63.8,Male
+51,65570,1784,12,Housing,Married,1542.73,10,self-employed,High School,0,35.4,Male
+68,60490,28751,24,Auto,Married,45524.34,16,full-time,High School,0,59.7,Female
+35,59720,13533,60,Business,Single,24136.71,7,full-time,Bachelor,0,21.8,Male
+28,25070,6801,60,Housing,Single,11869.99,17,full-time,Bachelor,0,32.0,Female
+34,35770,20190,36,Education,Single,22123.7,23,self-employed,High School,0,18.9,Female
+43,65910,39754,36,Business,Married,59715.58,26,full-time,Graduate,0,41.1,Male
+60,25330,30592,24,Other,Single,24702.32,21,part-time,High School,0,51.7,Male
+41,63350,11647,24,microloan,Married,10944.94,22,full-time,Bachelor,0,41.1,Male
+36,71900,9716,24,Other,Single,17921.2,26,full-time,Bachelor,4,58.4,Female
+65,57310,24355,36,Auto,Married,12652.49,7,self-employed,Graduate,0,28.8,Female
+38,43100,23009,36,Housing,Married,14455.7,14,self-employed,Bachelor,3,43.4,Female
+67,10020,25376,36,Auto,Married,20600.98,15,part-time,Graduate,0,32.1,Female
+44,40550,5780,36,Other,Married,3120.03,21,self-employed,Some College,1,45.4,Male
+46,50180,3368,12,Auto,Single,2600.61,7,self-employed,Graduate,1,47.6,Female
+45,52960,13039,24,Housing,Single,17922.92,9,part-time,High School,0,48.7,Female
+65,15660,7655,12,Education,Married,8666.51,19,self-employed,Graduate,0,23.9,Male
+61,51890,5495,36,Housing,Single,10105.35,16,part-time,Bachelor,1,26.7,Female
+49,31270,11893,24,microloan,Married,20529.28,8,part-time,Graduate,0,29.4,Female
+35,37310,26547,48,microloan,Single,26884.84,18,part-time,Some College,0,36.4,Female
+65,9970,23386,24,microloan,Divorced,20793.31,27,self-employed,Bachelor,0,41.3,Female
+21,79250,14403,12,Housing,Single,15404.56,23,full-time,Bachelor,1,50.6,Female
+45,27300,33097,12,microloan,Married,45853.99,29,self-employed,Bachelor,1,27.3,Female
+27,43820,14121,36,Education,Divorced,12738.49,18,self-employed,High School,1,16.0,Male
+29,76950,11966,36,Housing,Single,17185.85,20,full-time,High School,0,72.3,Male
+44,70870,34621,12,Housing,Married,38571.86,7,self-employed,High School,1,23.0,Female
+21,14080,29312,12,Business,Married,38928.41,3,full-time,High School,0,52.5,Male
+64,40720,23677,36,Auto,Single,27327.75,18,full-time,Graduate,0,40.5,Male
+28,19470,32289,12,Education,Single,30406.51,27,part-time,High School,0,43.8,Male
+44,50820,32024,48,Housing,Single,61571.9,10,full-time,Advanced,0,40.0,Male
+31,41970,5777,36,Housing,Single,9505.53,7,self-employed,Some College,0,34.2,Female
+37,33110,30749,12,microloan,Single,21837.01,17,self-employed,High School,0,47.0,Female
+28,25940,16338,12,Housing,Married,29452.54,14,full-time,Bachelor,0,33.4,Male
+55,14590,3491,60,Housing,Married,4297.93,24,full-time,Bachelor,0,57.5,Male
+55,36110,28236,24,Housing,Married,52005.87,3,full-time,Some College,0,48.5,Male
+53,78980,15599,24,microloan,Single,26514.91,12,part-time,Bachelor,0,49.0,Female
+25,68510,20508,48,microloan,Married,23334.42,28,contract,Bachelor,0,32.4,Female
+62,73460,4051,48,Auto,Single,2162.03,13,part-time,High School,0,36.5,Male
+59,21690,22606,60,Housing,Single,20413.58,2,full-time,Advanced,0,22.2,Female
+61,27860,22699,36,Housing,Single,29791.33,3,part-time,Advanced,0,34.7,Female
+48,64300,1876,24,Auto,Married,2720.61,5,full-time,Bachelor,0,24.5,Female
+27,9460,33093,12,Education,Single,29347.92,11,self-employed,High School,0,59.7,Female
+29,40190,5142,36,microloan,Married,3645.85,8,full-time,Bachelor,0,40.8,Male
+28,37110,16202,36,Business,Single,28392.31,26,self-employed,High School,0,42.6,Female
+32,25340,8079,24,Education,Married,15968.98,23,full-time,High School,1,36.6,Male
+54,26430,8987,48,microloan,Married,11580.07,23,contract,Some College,0,43.0,Female
+53,12880,29940,12,Business,Single,22680.12,12,full-time,Some College,0,77.0,Female
+68,37760,38233,24,Other,Married,34733.19,7,part-time,Graduate,0,35.5,Female
+43,27590,18019,6,microloan,Married,9506.57,15,contract,Bachelor,0,30.2,Female
+44,65590,19077,24,Housing,Single,35701.62,24,full-time,Bachelor,0,47.9,Male
+57,74940,27258,12,Business,Single,18443.49,17,contract,Some College,0,2.1,Female
+55,31850,22136,12,Business,Single,30210.65,4,part-time,Some College,0,41.0,Female
+64,37190,9311,12,Housing,Single,8483.09,29,full-time,Some College,0,34.4,Female
+60,55360,18214,36,Housing,Single,24247.7,22,full-time,Advanced,0,25.1,Male
+42,26020,15098,36,Housing,Married,22301.72,25,part-time,High School,1,47.6,Male
+47,74160,29251,36,Auto,Married,51031.67,13,full-time,Graduate,1,40.8,Male
+55,68650,38945,60,Education,Married,31531.11,18,full-time,Bachelor,0,13.0,Female
+21,70940,26945,24,Housing,Divorced,13916.92,1,full-time,Some College,2,30.3,Female
+55,63340,26316,24,Auto,Single,18561.42,16,part-time,Bachelor,0,0.0,Male
+57,48610,33217,48,Business,Married,61452.38,13,full-time,Some College,0,44.4,Female
+67,41690,9308,24,microloan,Married,16855.25,10,self-employed,Graduate,0,44.2,Female
+34,65300,6949,60,Housing,Divorced,9701.64,12,contract,Graduate,0,28.1,Female
+23,10620,2150,6,Business,Married,3011.67,2,contract,Some College,1,48.1,Female
+21,66830,24944,60,Business,Single,37355.01,23,part-time,Some College,0,20.8,Female
+25,70870,35699,6,Auto,Single,27240.37,3,full-time,Bachelor,2,25.5,Female
+46,72890,10204,48,Auto,Single,19097.99,10,self-employed,Graduate,0,46.3,Male
+34,14230,2081,36,microloan,Married,2347.69,2,full-time,High School,2,29.7,Female
+59,18160,30305,60,Auto,Single,32569.02,27,full-time,Bachelor,0,39.1,Female
+47,44430,17896,12,Auto,Divorced,22877.83,23,full-time,Bachelor,0,31.5,Female
+29,57760,8805,36,Housing,Single,5022.8,13,full-time,Bachelor,0,33.8,Female
+35,28490,6237,60,Housing,Single,4674.16,13,self-employed,High School,0,34.5,Female
+35,78400,21056,36,Housing,Divorced,33838.05,18,part-time,Bachelor,0,29.4,Male
+46,62230,4343,36,microloan,Single,2710.89,3,full-time,Graduate,0,44.5,Male
+62,71970,14500,36,Housing,Married,20368.56,27,full-time,High School,1,30.6,Male
+33,45230,30375,24,Housing,Single,26366.22,7,contract,High School,0,40.2,Male
+52,53480,10662,36,Housing,Single,11557.0,14,full-time,Advanced,0,29.1,Female
+59,39080,17964,36,microloan,Married,16761.14,20,full-time,High School,0,17.0,Female
+69,60790,9130,48,Business,Single,9435.94,29,full-time,Graduate,0,53.7,Male
+52,48900,20531,6,Auto,Divorced,32409.6,17,self-employed,Some College,0,47.5,Male
+24,79580,2679,24,Education,Divorced,2533.48,29,part-time,High School,0,74.3,Female
+50,28560,4506,60,Business,Married,6081.33,21,full-time,Graduate,0,24.3,Male
+57,39700,14284,48,Auto,Married,17341.86,12,full-time,Some College,0,36.9,Female
+43,24820,8253,24,microloan,Divorced,12342.42,25,part-time,Bachelor,0,38.1,Female
+59,77590,20128,36,Auto,Single,38348.76,16,part-time,Some College,0,54.8,Female
+65,30550,28932,24,Auto,Married,46258.16,24,full-time,Bachelor,0,32.4,Male
+35,19540,10435,12,Business,Divorced,8581.85,12,contract,High School,0,22.4,Male
+33,1015,45051,48,microloan,Single,7417.72,0,self-employed,Some College,2,85.8,Male
+29,1744,47386,24,Education,Single,8712.87,2,part-time,Some College,1,98.2,Female
+56,1025,29518,48,microloan,Single,2002.62,1,self-employed,Some College,2,95.1,Male
+42,835,66026,24,Education,Married,16775.6,2,contract,Bachelor,1,96.1,Male
+62,1197,36184,48,Business,Married,4652.87,2,full-time,High School,1,80.4,Male
+46,1578,53787,36,Other,Single,2274.54,4,self-employed,Bachelor,3,99.3,Male
+32,999,41621,48,Education,Married,8293.25,2,full-time,Some College,1,94.5,Male
+37,1399,30028,36,Housing,Single,1946.63,2,self-employed,Bachelor,3,86.1,Male
+34,1265,32448,36,Other,Married,949.71,3,full-time,High School,1,96.6,Female
+34,1035,79792,48,Other,Divorced,20633.9,1,full-time,High School,2,85.6,Male
+54,661,65253,24,Education,Divorced,9008.09,3,part-time,Some College,2,97.5,Male
+40,1093,54051,24,Auto,Single,12149.86,3,full-time,Some College,2,82.3,Female
+31,658,69811,60,Education,Married,6085.86,0,part-time,Bachelor,1,94.1,Female
+36,1711,50447,24,Other,Married,11910.08,3,contract,Some College,1,90.8,Female
+51,559,38394,60,Housing,Divorced,1289.3,4,contract,Some College,1,81.9,Male
+26,1414,77742,24,Other,Divorced,8302.22,4,part-time,High School,1,84.8,Female
+39,1842,54501,24,Housing,Married,15991.6,0,part-time,Some College,2,80.2,Male
+57,710,50254,36,microloan,Married,11970.35,1,self-employed,Some College,4,89.4,Male
+24,905,38509,60,Business,Married,5744.65,1,self-employed,High School,3,86.0,Male
+67,1163,71323,24,Other,Married,7270.18,3,self-employed,High School,3,92.0,Female
+24,1632,77418,60,Education,Married,20255.7,3,contract,Bachelor,3,85.9,Female
+40,1599,68998,36,microloan,Married,11278.02,3,self-employed,Some College,2,86.0,Female
+30,1041,34472,36,Business,Single,7843.33,1,full-time,High School,1,94.9,Female
+44,1837,65657,60,Education,Married,14853.73,2,full-time,Bachelor,4,81.0,Female
+55,1497,23471,36,Auto,Divorced,126.36,4,self-employed,Bachelor,2,98.1,Male
+46,1640,61796,48,Education,Single,2340.59,2,full-time,Some College,2,97.0,Male
+57,1426,74776,48,Housing,Married,14797.33,2,contract,Some College,1,93.4,Male
+58,1367,77843,36,Housing,Divorced,3774.29,1,full-time,Bachelor,2,91.9,Male
+41,518,50268,48,Auto,Single,3852.94,2,contract,High School,2,97.8,Female
+60,931,28329,24,microloan,Divorced,8045.19,0,part-time,Bachelor,3,83.7,Female
+59,1239,54865,60,Business,Married,9220.32,3,part-time,Some College,2,81.6,Male
+41,1873,66850,24,Education,Married,15055.88,0,part-time,High School,1,84.8,Female
+30,682,74220,60,Housing,Married,12424.0,4,part-time,High School,4,95.9,Female
+58,612,66698,36,microloan,Married,11055.47,3,full-time,Bachelor,1,80.7,Male
+66,1706,48272,24,Auto,Single,1363.47,2,self-employed,Some College,2,91.7,Male
+24,980,62845,36,Other,Single,6479.25,4,full-time,Bachelor,1,99.9,Female
+65,1669,26397,36,Housing,Divorced,2236.6,3,contract,Bachelor,3,97.1,Female
+40,1330,52373,60,Auto,Married,6139.09,2,full-time,Bachelor,4,90.4,Male
+37,1636,55525,60,Education,Divorced,13298.42,0,full-time,High School,1,81.3,Male
+27,1262,73072,60,Business,Single,8153.36,3,contract,High School,3,96.6,Male
