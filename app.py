@@ -215,8 +215,7 @@ def show_home():
     st.markdown('<div class="sub-header-features">🚀 Features</div>', unsafe_allow_html=True)
     st.markdown("""
 - **Instant Credit Score Calculation**: Get credit scores (300–850) in seconds  
-- **Default Risk Assessment**: Probability‑based risk evaluation  
-- **Multiple Models**: Underlying XGBoost credit‑risk model  
+- **Default Risk Assessment**: Probability‑based risk evaluation    
 - **Detailed Analytics**: Visual representations and insights for each prediction  
 - **Batch Processing**: Upload CSV files for multiple predictions
 """)
